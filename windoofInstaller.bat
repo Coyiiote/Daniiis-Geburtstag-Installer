@@ -1,4 +1,5 @@
 @ echo off
+cd /D C:
 cd %userprofile%
 git clone -q https://github.com/Coyiiote/koamievideo.git
 cd koamievideo
